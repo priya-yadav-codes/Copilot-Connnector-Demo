@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "copilot-spfx-test-client-side-solution",
+    "id": "16878958-bc14-4829-96cb-645d9b89f57b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "copilot-spfx-test description"
+      },
+      "longDescription": {
+        "default": "copilot-spfx-test description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "copilot-spfx-test Feature",
+        "description": "The feature that activates elements of the copilot-spfx-test solution.",
+        "id": "3cbb7c17-aa9e-418d-bbcb-cb47a6931b70",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/copilot-spfx-test.sppkg"
+  }
+}
